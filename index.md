@@ -57,6 +57,22 @@ Frontend Developer · Metaverse Creator
 
 ---
 
+## 🧳 Internship
+
+### EduVerse (2026.07 ~ 2026.08) – 프론트엔드 인턴
+
+- 교육 플랫폼의 학습 분석 대시보드 UI 개선 및 신규 기능 구현
+- React와 Chart.js를 활용해 시각화 기능 개발
+- GitHub 기반 협업 환경에서 팀 프로젝트 참여
+
+### MetaSpark (2027.01 ~ 2027.03) – 메타버스 서비스 인턴
+
+- Unity 기반 가상 공간 내 UX 개선 작업 및 기능 테스트
+- 웹뷰 삽입형 메타버스 기능 기획 및 프로토타입 개발
+- Jira · Slack · Notion을 활용한 애자일 협업 환경 경험
+
+---
+
 ## 🚀 Projects
 
 ### 🧠 무드빌더 (2025)
