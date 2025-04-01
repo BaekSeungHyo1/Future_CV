@@ -19,18 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: SeungHyo Baek
-email: Future CV based on GitHub Pages
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username: jekyll
+email: shback0926@naver.com
+description: 개발자 SeungHyo Baek의 포트폴리오 · Future CV
 
-# Build settings
-theme: minima
+baseurl: "" # 깃허브 페이지용 설정
+url: "https://baekseunghyo1.github.io"
+
+# Bulid settings
 plugins:
   - jekyll-feed
 # Exclude from processing.
