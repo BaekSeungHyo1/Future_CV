@@ -1,4 +1,4 @@
-<h1>기술에 <strong><em>감성</em></strong>을 더하는 개발자, 백승효</h1>
+# 감성으로 기술을 디자인하는 개발자, 백승효
 
 <img src="assets/img/profile.jpg" alt="SeungHyo Baek" width="180" style="border-radius: 50%; margin-bottom: 10px;" />
 
