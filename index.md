@@ -1,4 +1,4 @@
-# 감성으로 기술을 디자인하는 개발자, 백승효
+# 기<span style="font-family: 'Noto Sans KR';">술</span>에 감성을 더하는 개발자, 백승효
 
 <img src="assets/img/profile.jpg" alt="SeungHyo Baek" width="180" style="border-radius: 50%; margin-bottom: 10px;" />
 
